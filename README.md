@@ -4,6 +4,10 @@ A full-stack Real Estate CRM built using the MERN Stack. This application helps 
 
 ---
 
+### Demo Credentials
+
+- Demo login credentials are provided below.
+
 ## Features
 
 ### Authentication
