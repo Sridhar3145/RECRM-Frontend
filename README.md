@@ -160,6 +160,12 @@ A full-stack Real Estate CRM built using the MERN Stack. This application helps 
 
 ---
 
+### URL 
+```bash
+Frontend: https://recrmf.netlify.app
+Backend:  https://recrm-backend-jvaa.onrender.com
+```
+
 ## Demo Credentials
 
 ### Admin
